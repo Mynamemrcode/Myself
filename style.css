@@ -1,0 +1,22 @@
+body
+{
+    text-align:center;
+}
+
+#Proto
+{
+width:175px;
+    height:175px;
+    border-radius: 50%;
+    
+}
+img
+{
+    height:250px;
+    width:250px;
+    transition: transform .2s;
+}
+
+
+
+img:hover { transform: scale(0.9); }
